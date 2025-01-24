@@ -15,7 +15,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V10p7NPH3IdZ2VYlMfJc-2" value="egp-gateway-leo (jms_scheduler)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="V10p7NPH3IdZ2VYlMfJc-2" value="egp-gateway-leo (jms_scheduler, JmsConsumer)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V10p7NPH3IdZ2VYlMfJc-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V10p7NPH3IdZ2VYlMfJc-3" target="V10p7NPH3IdZ2VYlMfJc-2">
