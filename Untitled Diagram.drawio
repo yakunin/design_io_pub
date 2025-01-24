@@ -15,7 +15,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V10p7NPH3IdZ2VYlMfJc-2" value="egp-gateway-leo (jms_scheduler, JmsConsumer)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="V10p7NPH3IdZ2VYlMfJc-2" value="egp-gateway-leo (jms_scheduler, JmsConsumer)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="480" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V10p7NPH3IdZ2VYlMfJc-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V10p7NPH3IdZ2VYlMfJc-3" target="V10p7NPH3IdZ2VYlMfJc-2">
@@ -50,7 +50,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V10p7NPH3IdZ2VYlMfJc-12" value="egp-gateway-leo (db_scheduler-OutGoingScheduler, Pnm2Client)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="V10p7NPH3IdZ2VYlMfJc-12" value="egp-gateway-leo (db_scheduler-OutGoingScheduler, Pnm2Client)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="480" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V10p7NPH3IdZ2VYlMfJc-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="V10p7NPH3IdZ2VYlMfJc-14" target="V10p7NPH3IdZ2VYlMfJc-15">
@@ -81,7 +81,7 @@
         <mxCell id="V10p7NPH3IdZ2VYlMfJc-20" value="EGP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V10p7NPH3IdZ2VYlMfJc-21" value="egp-leo-receiver" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="V10p7NPH3IdZ2VYlMfJc-21" value="egp-leo-receiver" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="480" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V10p7NPH3IdZ2VYlMfJc-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="V10p7NPH3IdZ2VYlMfJc-22" target="V10p7NPH3IdZ2VYlMfJc-21">
@@ -109,7 +109,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V10p7NPH3IdZ2VYlMfJc-36" value="egp-gateway-leo (db_scheduler-InGoingScheduler)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="V10p7NPH3IdZ2VYlMfJc-36" value="egp-leo-receiver (db_scheduler-InGoingScheduler)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="480" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V10p7NPH3IdZ2VYlMfJc-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="V10p7NPH3IdZ2VYlMfJc-36" target="V10p7NPH3IdZ2VYlMfJc-31">
@@ -171,7 +171,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="V10p7NPH3IdZ2VYlMfJc-51" value="egp-ofr-receiver" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="1110" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="1105" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V10p7NPH3IdZ2VYlMfJc-52" value="EGP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="993" width="120" height="200" as="geometry" />
@@ -219,23 +219,27 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V10p7NPH3IdZ2VYlMfJc-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V10p7NPH3IdZ2VYlMfJc-60" target="V10p7NPH3IdZ2VYlMfJc-61">
+        <mxCell id="V10p7NPH3IdZ2VYlMfJc-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="V10p7NPH3IdZ2VYlMfJc-84" target="V10p7NPH3IdZ2VYlMfJc-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="1320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V10p7NPH3IdZ2VYlMfJc-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="V10p7NPH3IdZ2VYlMfJc-60" target="V10p7NPH3IdZ2VYlMfJc-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="V10p7NPH3IdZ2VYlMfJc-60" value="egp-gateway-leo (db_scheduler-InGoingScheduler)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="V10p7NPH3IdZ2VYlMfJc-60" value="egp-leo-receiver (db_scheduler-InGoingScheduler)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="1110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V10p7NPH3IdZ2VYlMfJc-61" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="400" y="1200" width="60" height="80" as="geometry" />
+          <mxGeometry x="240" y="1280" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="V10p7NPH3IdZ2VYlMfJc-62" value="MVNX_EGPGateway_LEO" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="370" y="1290" width="110" height="40" as="geometry" />
+          <mxGeometry x="215" y="1360" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="V10p7NPH3IdZ2VYlMfJc-63" value="RabbitMQ" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="1100" width="60" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="V10p7NPH3IdZ2VYlMfJc-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="V10p7NPH3IdZ2VYlMfJc-60" target="V10p7NPH3IdZ2VYlMfJc-63">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="560" y="1095" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="V10p7NPH3IdZ2VYlMfJc-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="V10p7NPH3IdZ2VYlMfJc-51" target="V10p7NPH3IdZ2VYlMfJc-63">
           <mxGeometry relative="1" as="geometry" />
@@ -245,6 +249,32 @@
         </mxCell>
         <mxCell id="V10p7NPH3IdZ2VYlMfJc-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.667;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="V10p7NPH3IdZ2VYlMfJc-73" target="V10p7NPH3IdZ2VYlMfJc-43">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V10p7NPH3IdZ2VYlMfJc-77" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="20" y="320" as="sourcePoint" />
+            <mxPoint x="840" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V10p7NPH3IdZ2VYlMfJc-79" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="15" y="730" as="sourcePoint" />
+            <mxPoint x="835" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V10p7NPH3IdZ2VYlMfJc-84" value="New Connector Or Old &amp;gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1193" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="V10p7NPH3IdZ2VYlMfJc-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="V10p7NPH3IdZ2VYlMfJc-84" target="V10p7NPH3IdZ2VYlMfJc-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="1230" />
+              <mxPoint x="590" y="1230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V10p7NPH3IdZ2VYlMfJc-91" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;If Notification from EGP doesn&#39;t exists in EGPGatewy_LEO we go to New Connector.&lt;br&gt;For PortOut always go to New Connector and never with Old.&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontStyle=0;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1400" width="730" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
